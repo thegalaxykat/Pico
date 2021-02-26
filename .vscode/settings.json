@@ -1,4 +1,6 @@
 {
     "python.formatting.provider": "autopep8",
-    "python.linting.pylintEnabled": false
+    "python.linting.pylintEnabled": false,
+    "problems.decorations.enabled": false,
+    "python.analysis.disabled": ["unresolved-import"],
 }
