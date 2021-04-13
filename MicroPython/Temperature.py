@@ -10,5 +10,5 @@ while True:
 
 	temperatureF = (temperatureC * 9/5) + 32 
 
-	print(temperatureF)
+	print(temperatureC)
 	utime.sleep(2)
